@@ -1,6 +1,6 @@
 # Hi, I'm Khoyron 👋🏾
 
-<img src="https://raw.githubusercontent.com/mkhoiron/mkhoiron/master/bg.png" alt="banner that says Moehammad khoyron - Android developer, kotlin enthusiast">
+<img src="https://raw.githubusercontent.com/mkhoiron/mkhoiron/master/bg_header.png" alt="banner that says Moehammad khoyron - Android developer, kotlin enthusiast">
 Hi, I'm Android developer from indonesian. And i'm kotlin enthusiast, I like to create a library that is useful for me and others, i hope i can contribute to open source on github . if you have an idea to make a library maybe i can help, feel free to comment and pull requests
 
 
